@@ -20,7 +20,10 @@ Hardhat v3	Development framework
 ethers.js v6	Blockchain interaction
 TypeScript	Testing + scripts
 Mocha + Chai	Unit testing
-📂 Project Structure
+
+## 📂 Project Structure
+
+```text
 milestone-funding/
 │
 ├── contracts/
@@ -34,8 +37,9 @@ milestone-funding/
 │
 ├── hardhat.config.ts
 └── README.md
+```
 
-🔎 Smart Contract Overview
+Smart Contract Overview
 
 Each project contains:
 
